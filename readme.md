@@ -1,5 +1,7 @@
 # Black Hat Python (BHP):
 
+If you're interested in some Arch Linux ricing and system building, check out my repo on [Arch Linux](https://github.com/Xerips/ArchLinux/)!
+
 ## Python Programming for Hackers and Pentesters, 2nd Edition.
 
 Here you'll find all of the tools and scripts found in the book "Black Hat Python."
